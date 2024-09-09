@@ -6,8 +6,8 @@
   <a href="https://github.com/afurqancodes" target="_blank">
     <img src="https://img.shields.io/github/followers/afurqancodes?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <a href="mailto:abcfurqan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abcfurqan@gmail.com-red?style=flat&logo=gmail" alt="Email Me" />
+  <a href="mailto:a.furqan.codes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-a.furqan.codes-red?style=flat&logo=gmail" alt="Email Me" />
   </a>
   <a href="https://www.linkedin.com/in/abdul-furqan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-abdulfurqan-blue?style=flat&logo=linkedin" alt="LinkedIn" />
