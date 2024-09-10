@@ -9,7 +9,7 @@
   <a href="mailto:a.furqan.codes@gmail.com">
     <img src="https://img.shields.io/badge/Email-a.furqan.codes-red?style=flat&logo=gmail" alt="Email Me" />
   </a>
-  <a href="www.linkedin.com/in/afurqan7" target="_blank">
+  <a href="https://www.linkedin.com/in/afurqan7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-abdulfurqan-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
