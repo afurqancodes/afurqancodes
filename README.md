@@ -18,18 +18,10 @@
 
 ### 👨‍💻 About Me
 
-- **Full-Stack Developer**: Experienced in both front-end and back-end technologies.
-- **Current Focus**: Developing MERN Stack projects, exploring new tech, and contributing to open-source.
-- **Skills**:
-  - **Languages**: JavaScript, TypeScript
-  - **Frameworks**: React, Next.js
-  - **Styling**: Tailwind CSS
-  - **Backend**: Node.js, Express.js
-  - **Databases**: MongoDB, Firebase
-- **Passion for Design**: Crafting modern, responsive designs with a focus on user experience.
-- **Continuous Learning**: Always eager to grow. Explore my [GitHub](https://github.com/afurqancodes) for my latest projects.
-
-Feel free to reach out for collaborations or inquiries!
+- **Full-Stack Developer**: Experienced in building scalable web applications.
+- **Current Focus**: Creating modern MERN stack projects and exploring new technologies.
+- **Passion**: Designing responsive, user-friendly interfaces with a strong focus on aesthetics and functionality.
+- **Open to Collaborations**: Always excited to work on innovative projects and contribute to open-source.
 
 ---
 
@@ -55,7 +47,7 @@ Feel free to reach out for collaborations or inquiries!
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=afurqancodes&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
@@ -64,7 +56,7 @@ Feel free to reach out for collaborations or inquiries!
 
 ---
 
-### 📊 Most Used Languages
+### 🕰️ Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afurqancodes&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
@@ -74,14 +66,17 @@ Feel free to reach out for collaborations or inquiries!
 
 ### 🔗 Connect with Me
 
-- 💬 Feel free to reach out for collaborations or any questions!
-- 📧 [Email me](a.furqan.codes@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/)
-- 🖥️ [Portfolio](# Hi 👋, I'm Abdul Furqan
-
----
-
-
+<p align="center">
+  <a href="mailto:a.furqan.codes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-a.furqan.codes-red?style=flat&logo=gmail" alt="Email Me" />
+  </a>
+  <a href="https://www.linkedin.com/in/afurqan7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-abdulfurqan-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/afurqancodes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-afurqancodes-black?style=flat&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afurqancodes&label=Profile%20views&color=blue&style=plastic" alt="Profile views" />
